@@ -3,14 +3,10 @@ import Character from './Character';
 import Dragon from './Dragon';
 import Monster from './Monster';
 
-const player1 = new Character('Matheus');
-const player2 = new Character('Will');
-const player3 = new Character('Heitor');
+const player1 = new Character('Tryber');
+const player2 = new Character('Lalaland');
+const player3 = new Character('Xablau');
 
-player1.levelUp();
-player1.levelUp();
-player1.levelUp();
-player1.levelUp();
 player1.levelUp();
 
 const monster1 = new Monster();
