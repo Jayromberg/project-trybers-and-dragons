@@ -8,6 +8,7 @@ const player2 = new Character('Lalaland');
 const player3 = new Character('Xablau');
 
 player1.levelUp();
+player1.levelUp();
 
 const monster1 = new Monster();
 const monster2 = new Dragon();
